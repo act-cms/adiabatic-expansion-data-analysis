@@ -1,7 +1,7 @@
-Lesson 01: Lesson Title
+Lesson 02: Adiabatic Expansion of Gases
 =======================
 
-The purpose of this lesson is to (brief description of lesson here).
+The purpose of this lesson is to examine results from a dynamical version of the Clement-Desormes experiment to determine the heat capacity ratio of gases through Python analysis and statistical mechanics.
 
 ## Lesson Information
 
